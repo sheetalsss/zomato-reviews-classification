@@ -117,9 +117,6 @@ This highlights the classic **fairness vs accuracy trade-off** in imbalanced cla
 
 ---
 
-
----
-
 ## ✅ Conclusion
 This project demonstrates that classical NLP models can achieve strong performance on majority sentiment classes but struggle with minority classes in imbalanced datasets. Applying class weighting improves fairness at the cost of accuracy, reinforcing the importance of proper problem framing and evaluation metrics in real-world machine learning tasks.
 
