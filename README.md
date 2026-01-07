@@ -8,6 +8,9 @@ The objective is to evaluate how well traditional models handle **real-world, hi
 ---
 
 ## 🧾 Dataset Overview
+
+Dataset from Kaggle : https://www.kaggle.com/datasets/sonalshinde123/zomato-app-play-store-reviews/data
+
 Each review record contains:
 - `review_id` – Unique identifier
 - `rating` – User rating (1–5)
